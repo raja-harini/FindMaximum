@@ -1,4 +1,4 @@
-# Find the maximum of a list of numbers
+# EX06 Find the maximum of a list of numbers
 ## Aim:
 To write a program to find the maximum of a list of numbers.
 ## Equipment’s required:
