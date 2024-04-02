@@ -12,6 +12,10 @@ To write a program to find the maximum of a list of numbers.
 
 i)	# To find the maximum of marks using the list method sort.
 ```
+MAXIMUM MARKS USING LIST METHOD SORT()
+DEVELOPED BY: HARINI R
+REGISTER NUMBER: 212223100010
+
 def max_marks(marks):
     marks.sort()
     large=marks[-1]
@@ -20,6 +24,10 @@ def max_marks(marks):
 
 ii)	# To find the maximum marks using the list method max().
 ```
+MAXIMUM MARKS USING LIST METHOD MAX()
+DEVELOPED BY: HARINI R
+REGISTER NUMBER: 212223100010
+
 def max_marks(marks):
     large=marks[len(marks)-1]
     marks.sort(reverse=True)
@@ -29,6 +37,10 @@ def max_marks(marks):
 
 iii) # To find the maximum marks without using builtin functions.
 ```
+MAXIMUM MARKS WITHOUT USING BUILTIN FUNCTIONS
+DEVELOPED BY: HARINI R
+REGISTER NUMBER: 212223100010
+
 def max_marks(marks):
     maxmark=0
     for i in marks:
